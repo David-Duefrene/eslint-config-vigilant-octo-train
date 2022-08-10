@@ -1,0 +1,14 @@
+{
+  "name": "vigilant-octo-train",
+  "version": "0.0.1",
+  "description": "My personal ESLint config",
+  "main": "index.js",
+  "keywords": [
+    "eslint"
+  ],
+  "author": "David Duefrene",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}
