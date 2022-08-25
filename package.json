@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-vigilant-octo-train",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "My personal ESLint config",
   "main": "index.js",
   "keywords": [
